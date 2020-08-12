@@ -1,0 +1,13 @@
+C:\Users\JabinGuo\AppData\Local\Temporary Projects\ArcMapAddin1\bin\Release\ArcMapAddin1.dll
+C:\Users\JabinGuo\AppData\Local\Temporary Projects\ArcMapAddin1\bin\Release\ArcMapAddin1.pdb
+C:\Users\JabinGuo\AppData\Local\Temporary Projects\ArcMapAddin1\obj\Release\ArcMapAddin1.dll
+C:\Users\JabinGuo\AppData\Local\Temporary Projects\ArcMapAddin1\obj\Release\ArcMapAddin1.pdb
+C:\Users\JabinGuo\AppData\Local\Temporary Projects\ArcMapAddin1\bin\Release\ArcMapAddin1.esriAddIn
+D:\Topology_vs2010\ArcMapAddin1\ArcMapAddin1\obj\Release\ArcMapAddin1.dll
+D:\Topology_vs2010\ArcMapAddin1\ArcMapAddin1\obj\Release\ArcMapAddin1.csprojResolveAssemblyReference.cache
+D:\Topology_vs2010\ArcMapAddin1\ArcMapAddin1\bin\Release\ArcMapAddin1.dll
+D:\Topology_vs2010\ArcMapAddin1\ArcMapAddin1\bin\Release\ArcMapAddin1.pdb
+D:\Topology_vs2010\ArcMapAddin1\ArcMapAddin1\bin\Release\ESRI.ArcGIS.ADF.dll
+D:\Topology_vs2010\ArcMapAddin1\ArcMapAddin1\bin\Release\ESRI.ArcGIS.ADF.xml
+D:\Topology_vs2010\ArcMapAddin1\ArcMapAddin1\obj\Release\ArcMapAddin1.pdb
+D:\Topology_vs2010\ArcMapAddin1\ArcMapAddin1\bin\Release\ArcMapAddin1.esriAddIn

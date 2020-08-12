@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcMapAddin1", "ArcMapAddin1\ArcMapAddin1.csproj", "{CC950DD6-7A2E-44C8-A514-BA99CFE3858D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC950DD6-7A2E-44C8-A514-BA99CFE3858D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC950DD6-7A2E-44C8-A514-BA99CFE3858D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC950DD6-7A2E-44C8-A514-BA99CFE3858D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC950DD6-7A2E-44C8-A514-BA99CFE3858D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
